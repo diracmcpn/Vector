@@ -18,7 +18,7 @@ Vector normalize(Vector *vector)
     return v;
 }
 
-Vector Reverse(Vector *vector)
+Vector reverse(Vector *vector)
 {
     Vector v;
     v.x = -vector->x;

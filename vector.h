@@ -12,7 +12,7 @@ struct Vector
 
 double magnitude(Vector *vector);
 Vector normalize(Vector *vector);
-Vector Reverse(Vector *vector);
+Vector reverse(Vector *vector);
 Vector addition(Vector *vector1, Vector *vector2);
 Vector substraction(Vector *vector1, Vector *vector2);
 double dotProduct(Vector *vector1, Vector *vector2);
