@@ -1,1 +1,13 @@
 This code implements all of the vector operations that you need in 2D or 3D. Although they are represented in 3D, you can reduce them to handle 2D by eliminating all of the z-terms or simply constraining the z-terms to zero where appropriate in your code. The structure VEctor is defined with three components x, y, z with different basic operations.
+
+All basic operations are dealed : 
+- Magnitude
+- Normalization
+- Reverse
+- Addition
+- Substraction
+- DotProduct
+- CrossProduct
+- Multiplication 
+- Division
+- TripleScalar
